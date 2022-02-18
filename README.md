@@ -1,8 +1,8 @@
 Read-from-CSV
-AIM:
+### AIM:
 To write the python program to read the csv file content
 
-ALGORITHM:
+### ALGORITHM:
 Step 1:
 Load the CSV into a data frame
 
